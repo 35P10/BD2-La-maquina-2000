@@ -186,7 +186,7 @@
 											"top": 227,
 											"width": 95,
 											"height": 13,
-											"text": "+id_sucusal",
+											"text": "+id_sucursal",
 											"horizontalAlignment": 0
 										}
 									],
@@ -7249,7 +7249,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAJnMePcLwM="
 							},
-							"name": "DNI"
+							"name": "DNI",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7257,7 +7258,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAJnMePcLwM="
 							},
-							"name": "nombre"
+							"name": "nombre",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7265,7 +7267,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAJnMePcLwM="
 							},
-							"name": "apellidos"
+							"name": "apellidos",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7273,7 +7276,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAJnMePcLwM="
 							},
-							"name": "id_sucusal"
+							"name": "id_sucursal"
 						}
 					]
 				},
@@ -7306,7 +7309,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAZFrOQhPBA="
 							},
-							"name": "DNI"
+							"name": "DNI",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7314,7 +7318,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAZFrOQhPBA="
 							},
-							"name": "turno"
+							"name": "turno",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7322,7 +7327,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAZFrOQhPBA="
 							},
-							"name": "sueldo"
+							"name": "sueldo",
+							"type": ""
 						}
 					]
 				},
@@ -7454,7 +7460,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAdc3+XjBL0="
 							},
-							"name": "DNI"
+							"name": "DNI",
+							"type": ""
 						}
 					]
 				},
@@ -7528,7 +7535,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAhNA+kLvdI="
 							},
-							"name": "DNI"
+							"name": "DNI",
+							"type": ""
 						}
 					]
 				},
@@ -7575,7 +7583,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAjZiutJ9do="
 							},
-							"name": "DNI"
+							"name": "DNI",
+							"type": ""
 						}
 					]
 				},
@@ -7622,7 +7631,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAkixOxMN8U="
 							},
-							"name": "ID"
+							"name": "ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7630,7 +7640,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAkixOxMN8U="
 							},
-							"name": "DNI_empleado"
+							"name": "DNI_empleado",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7638,7 +7649,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAkixOxMN8U="
 							},
-							"name": "monto"
+							"name": "monto",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7646,7 +7658,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAkixOxMN8U="
 							},
-							"name": "fecha_emision"
+							"name": "fecha_emision",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7654,7 +7667,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAkixOxMN8U="
 							},
-							"name": "fecha_vencimiento"
+							"name": "fecha_vencimiento",
+							"type": ""
 						}
 					]
 				},
@@ -7701,7 +7715,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAm91vEOsZY="
 							},
-							"name": "ID"
+							"name": "ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7709,7 +7724,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAm91vEOsZY="
 							},
-							"name": "distrito"
+							"name": "distrito",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7717,7 +7733,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAm91vEOsZY="
 							},
-							"name": "calle"
+							"name": "calle",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7725,7 +7742,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAm91vEOsZY="
 							},
-							"name": "numero"
+							"name": "numero",
+							"type": ""
 						}
 					]
 				},
@@ -7826,7 +7844,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAvxS/tUiIY="
 							},
-							"name": "ID"
+							"name": "ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7834,7 +7853,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAvxS/tUiIY="
 							},
-							"name": "fecha_hora"
+							"name": "fecha_hora",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7842,7 +7862,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAvxS/tUiIY="
 							},
-							"name": "total"
+							"name": "total",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7850,7 +7871,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAvxS/tUiIY="
 							},
-							"name": "id_factura"
+							"name": "id_factura",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7858,7 +7880,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAvxS/tUiIY="
 							},
-							"name": "dni_vendedor"
+							"name": "dni_vendedor",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7866,7 +7889,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAvxS/tUiIY="
 							},
-							"name": "dni_cliente"
+							"name": "dni_cliente",
+							"type": ""
 						}
 					]
 				},
@@ -7913,7 +7937,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAwfXfyNi9Y="
 							},
-							"name": "CODIGO"
+							"name": "CODIGO",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7921,7 +7946,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAwfXfyNi9Y="
 							},
-							"name": "nombre"
+							"name": "nombre",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7929,7 +7955,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAwfXfyNi9Y="
 							},
-							"name": "marca"
+							"name": "marca",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7937,7 +7964,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAwfXfyNi9Y="
 							},
-							"name": "categoria"
+							"name": "categoria",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7945,7 +7973,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAwfXfyNi9Y="
 							},
-							"name": "stock"
+							"name": "stock",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -7953,7 +7982,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sAwfXfyNi9Y="
 							},
-							"name": "precio"
+							"name": "precio",
+							"type": ""
 						}
 					]
 				},
@@ -8000,7 +8030,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sA6DSgYT9hk="
 							},
-							"name": "id_venta"
+							"name": "id_venta",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8008,7 +8039,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sA6DSgYT9hk="
 							},
-							"name": "codigo_producto"
+							"name": "codigo_producto",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8016,7 +8048,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sA6DSgYT9hk="
 							},
-							"name": "cantidad"
+							"name": "cantidad",
+							"type": ""
 						}
 					]
 				},
@@ -8034,7 +8067,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sBFHaRoIOyk="
 							},
-							"name": "codigo_factura"
+							"name": "codigo_factura",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8042,7 +8076,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sBFHaRoIOyk="
 							},
-							"name": "fecha_hora"
+							"name": "fecha_hora",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8050,7 +8085,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sBFHaRoIOyk="
 							},
-							"name": "dni_cajero"
+							"name": "dni_cajero",
+							"type": ""
 						}
 					]
 				},
@@ -8068,7 +8104,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sBHHxSE58J0="
 							},
-							"name": "id_"
+							"name": "id_",
+							"type": ""
 						}
 					]
 				},
@@ -8142,7 +8179,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sBh3NExzIps="
 							},
-							"name": "id_reserva"
+							"name": "id_reserva",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8150,7 +8188,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sBh3NExzIps="
 							},
-							"name": "dni_cliente"
+							"name": "dni_cliente",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8158,7 +8197,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sBh3NExzIps="
 							},
-							"name": "fecha_inicio"
+							"name": "fecha_inicio",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8166,7 +8206,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sBh3NExzIps="
 							},
-							"name": "fecha_limite"
+							"name": "fecha_limite",
+							"type": ""
 						}
 					]
 				},
@@ -8184,7 +8225,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sB3gQH/Sn7k="
 							},
-							"name": "id_reserva"
+							"name": "id_reserva",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8192,7 +8234,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sB3gQH/Sn7k="
 							},
-							"name": "codigo_producto"
+							"name": "codigo_producto",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8200,7 +8243,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF6sB3gQH/Sn7k="
 							},
-							"name": "cantidad"
+							"name": "cantidad",
+							"type": ""
 						}
 					]
 				}
