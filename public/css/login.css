@@ -1,0 +1,85 @@
+:root {
+    --color_backgroud:#00b0f0;
+    --color_secundario:#ffffff;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+    padding-top: calc(50vh - 12rem);
+    background-color: var(--color_backgroud);
+}
+
+h1 {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.main_container{
+    width: 40%;
+    height: auto;
+    margin: 0 auto;
+    display:flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    color: var(--color_secundario);
+}
+
+.main_container form {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+
+.main_container form  label {
+    font-size: 1.6rem;
+}
+
+.main_container form  input {
+    width: 20rem;
+    height: 2.5rem;
+    margin: 10px 0;
+    text-align: center;
+}
+
+
+.logo {
+    display:block;
+    margin: 1.5rem;
+    width: 15rem;
+    height: 15rem;
+    max-width: 150px;
+    max-height: 150px;
+    background-image:url('/images/logo.png');
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ingresar {
+    display:flex;
+    width: 17rem;
+    height: 5rem;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color_secundario);
+    font-size: 1.8rem;
+    text-decoration: none;
+    color : var(--color_backgroud);
+    border-radius: 8px;
+}
