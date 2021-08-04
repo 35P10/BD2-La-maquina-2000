@@ -3,12 +3,11 @@
 _Base de Datos II_
 
 
-## Comenzando 👾
+## DIAGRAMA DE CLASES 👾
+<p align="center">
+![GitHub Logo](/imagess/dc.png)</p>
 
-![GitHub Logo](/imagess/dc.png)
-Format: ![Alt Text](url)
 
-<p align="center"><img src=""/></p> 
 
 _Instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
