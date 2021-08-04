@@ -4,8 +4,8 @@ _Base de Datos II_
 
 
 ## DIAGRAMA DE CLASES 👾
-<p align="center">
-![GitHub Logo](/imagess/dc.png)</p>
+<p align="center"></p>
+![GitHub Logo](/imagess/dc.png)
 
 
 
